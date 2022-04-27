@@ -1,0 +1,30 @@
+/* CONFIGURAÇÃO BÁSICA DO CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+.container{
+	max-width: 1280px;
+	margin:0 auto;
+}
+
+.clear{
+	clear: both;
+}
+
+/* ************************************** */
+/* CONFIGURAÇÃO DO ARQUIVO ATUAL DO SITE */
+/* inicio do Header */
+
+
+
+
+/* ************************************************** */
+/* Inicio das medias screen */
+/* max-width:  */
